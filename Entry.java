@@ -1,9 +1,3 @@
-/*
- * Student name: Xinyi Wu
- * Student ID: 1306826
- * LMS username: wuxw13
- */
-
 /**
  * This class is used to create all the entries, which can be two types: numbers entry
  *  and auto numbers entry.
