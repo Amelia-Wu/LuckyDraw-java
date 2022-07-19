@@ -1,9 +1,3 @@
-/*
- * Student name: Xinyi Wu
- * Student ID: 1306826
- * LMS username: wuxw13
- */
-
 /**
  * This class is used to generate number entries for the lucky numbers competition.
  *
