@@ -1,9 +1,3 @@
-/*
- * Student name: Xinyi Wu
- * Student ID: 1306826
- * LMS username: wuxw13
- */
-
 /**
  * This class is used to create competitions, which can be two types: lucky numbers
  *  and random picks. The functions of the competitions are adding entries, drawing winners and
